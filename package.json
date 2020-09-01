@@ -1,0 +1,15 @@
+{
+  "name": "app04-express-server",
+  "version": "0.0.1",
+  "description": "Programa para crear un servidor",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azalia Peña",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
